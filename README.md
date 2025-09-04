@@ -1,5 +1,5 @@
 # presto
-### A terrible slideshow editor
+### A terrible slideshow editor, written in React/Vite
 
 The frontend for an already existing Node.js backend for a slideshow editor (similar to Powerpoint). The backend was authored by the staff of COMP6080 at UNSW.
 
